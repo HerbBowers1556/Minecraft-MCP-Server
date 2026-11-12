@@ -5,7 +5,7 @@ from mcrcon import MCRcon
 # Configurações RCON
 HOST = "localhost"
 PORT = 25575
-PASSWORD = "minemcp"
+PASSWORD = "P@55word1"
 
 def send_rcon(cmd: str) -> str:
     """Sending command by RCON."""
